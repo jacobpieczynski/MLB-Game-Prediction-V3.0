@@ -1,0 +1,413 @@
+Testing Pybaseball
+--------------------------------------------------
+{'Name': 'CJ Abrams', 'Team': 'Washington', 'Batting Average': 0.344}
+{'Name': 'Jos\\xc3\\xa9 Abreu', 'Team': 'Houston', 'Batting Average': 0.088}
+{'Name': 'Wilyer Abreu', 'Team': 'Boston', 'Batting Average': 0.125}
+{'Name': 'Ronald Acu\\xc3\\xb1a Jr.', 'Team': 'Atlanta', 'Batting Average': 0.256}
+{'Name': 'Willy Adames', 'Team': 'Milwaukee', 'Batting Average': 0.25}
+{'Name': 'Riley Adams', 'Team': 'Washington', 'Batting Average': 0.267}
+{'Name': 'Jo Adell', 'Team': 'Los Angeles', 'Batting Average': 0.182}
+{'Name': 'Nick Ahmed', 'Team': 'San Francisco', 'Batting Average': 0.222}
+{'Name': 'Ozzie Albies', 'Team': 'Atlanta', 'Batting Average': 0.31}
+{'Name': 'Blaze Alexander', 'Team': 'Arizona', 'Batting Average': 0.296}
+{'Name': 'Nick Allen', 'Team': 'Oakland', 'Batting Average': 0.188}
+{'Name': 'Pete Alonso', 'Team': 'New York', 'Batting Average': 0.196}
+{'Name': 'Jose Altuve', 'Team': 'Houston', 'Batting Average': 0.333}
+{'Name': 'Francisco Alvarez', 'Team': 'New York', 'Batting Average': 0.281}
+{'Name': 'Yordan Alvarez', 'Team': 'Houston', 'Batting Average': 0.347}
+{'Name': 'Miguel Amaya', 'Team': 'Cubs', 'Batting Average': 0.278}
+{'Name': 'Tim Anderson', 'Team': 'Miami', 'Batting Average': 0.283}
+{'Name': 'Orlando Arcia', 'Team': 'Atlanta', 'Batting Average': 0.385}
+{'Name': 'Nolan Arenado', 'Team': 'St. Louis', 'Batting Average': 0.245}
+{'Name': 'Gabriel Arias', 'Team': 'Cleveland', 'Batting Average': 0.125}
+{'Name': 'Randy Arozarena', 'Team': 'Tampa Bay', 'Batting Average': 0.214}
+{'Name': 'Luis Arr\\xc3\\xa1ez', 'Team': 'Miami', 'Batting Average': 0.234}
+{'Name': 'Jos\\xc3\\xa9 Azocar', 'Team': 'San Diego', 'Batting Average': 0.3}
+{'Name': 'Harrison Bader', 'Team': 'New York', 'Batting Average': 0.233}
+{'Name': 'Javier B\\xc3\\xa1ez', 'Team': 'Detroit', 'Batting Average': 0.152}
+{'Name': 'Patrick Bailey', 'Team': 'San Francisco', 'Batting Average': 0.296}
+{'Name': 'Austin Barnes', 'Team': 'Los Angeles', 'Batting Average': 0.5}
+{'Name': 'Tucker Barnhart', 'Team': 'Arizona', 'Batting Average': 0.333}
+{'Name': 'Jorge Barrosa', 'Team': 'Arizona', 'Batting Average': 0.2}
+{'Name': 'Joey Bart', 'Team': 'Pittsburgh', 'Batting Average': 0.375}
+{'Name': 'Brett Baty', 'Team': 'New York', 'Batting Average': 0.325}
+{'Name': 'Jake Bauers', 'Team': 'Milwaukee', 'Batting Average': 0.174}
+{'Name': 'Josh Bell', 'Team': 'Miami', 'Batting Average': 0.2}
+{'Name': 'Cody Bellinger', 'Team': 'Cubs', 'Batting Average': 0.209}
+{'Name': 'Andrew Benintendi', 'Team': 'White Sox', 'Batting Average': 0.167}
+{'Name': 'Will Benson', 'Team': 'Cincinnati', 'Batting Average': 0.225}
+{'Name': 'Jon Berti', 'Team': 'New York', 'Batting Average': 0.2}
+{'Name': 'Christian Bethancourt', 'Team': 'Miami', 'Batting Average': 0.0}
+{'Name': 'Mookie Betts', 'Team': 'Los Angeles', 'Batting Average': 0.38}
+{'Name': 'Bo Bichette', 'Team': 'Toronto', 'Batting Average': 0.205}
+{'Name': 'Cavan Biggio', 'Team': 'Toronto', 'Batting Average': 0.29}
+{'Name': 'Charlie Blackmon', 'Team': 'Colorado', 'Batting Average': 0.333}
+{'Name': 'Dairon Blanco', 'Team': 'Kansas City', 'Batting Average': 0.0}
+{'Name': 'JJ Bleday', 'Team': 'Oakland', 'Batting Average': 0.279}
+{'Name': 'Xander Bogaerts', 'Team': 'San Diego', 'Batting Average': 0.25}
+{'Name': 'Alec Bohm', 'Team': 'Philadelphia', 'Batting Average': 0.237}
+{'Name': 'Alex Bregman', 'Team': 'Houston', 'Batting Average': 0.222}
+{'Name': 'Will Brennan', 'Team': 'Cleveland', 'Batting Average': 0.258}
+{'Name': 'Jonah Bride', 'Team': 'Miami', 'Batting Average': 0.143}
+{'Name': 'Seth Brown', 'Team': 'Oakland', 'Batting Average': 0.143}
+{'Name': 'Vidal Bruj\\xc3\\xa1n', 'Team': 'Miami', 'Batting Average': 0.0}
+{'Name': 'Kris Bryant', 'Team': 'Colorado', 'Batting Average': 0.114}
+{'Name': 'Jake Burger', 'Team': 'Miami', 'Batting Average': 0.261}
+{'Name': 'Alec Burleson', 'Team': 'St. Louis', 'Batting Average': 0.229}
+{'Name': 'Michael Busch', 'Team': 'Cubs', 'Batting Average': 0.257}
+{'Name': 'Lawrence Butler', 'Team': 'Oakland', 'Batting Average': 0.161}
+{'Name': 'Byron Buxton', 'Team': 'Minnesota', 'Batting Average': 0.235}
+{'Name': 'Jos\\xc3\\xa9 Caballero', 'Team': 'Tampa Bay', 'Batting Average': 0.353}
+{'Name': 'Oswaldo Cabrera', 'Team': 'New York', 'Batting Average': 0.333}
+{'Name': 'Luis Campusano', 'Team': 'San Diego', 'Batting Average': 0.326}
+{'Name': 'Jeimer Candelario', 'Team': 'Cincinnati', 'Batting Average': 0.163}
+{'Name': 'Mark Canha', 'Team': 'Detroit', 'Batting Average': 0.206}
+{'Name': 'Dominic Canzone', 'Team': 'Seattle', 'Batting Average': 0.241}
+{'Name': 'Victor Caratini', 'Team': 'Houston', 'Batting Average': 0.333}
+{'Name': 'Kerry Carpenter', 'Team': 'Detroit', 'Batting Average': 0.231}
+{'Name': 'Matt Carpenter', 'Team': 'St. Louis', 'Batting Average': 0.3}
+{'Name': 'Corbin Carroll', 'Team': 'Arizona', 'Batting Average': 0.227}
+{'Name': 'Evan Carter', 'Team': 'Texas', 'Batting Average': 0.182}
+{'Name': 'Triston Casas', 'Team': 'Boston', 'Batting Average': 0.244}
+{'Name': 'Nick Castellanos', 'Team': 'Philadelphia', 'Batting Average': 0.154}
+{'Name': 'Willi Castro', 'Team': 'Minnesota', 'Batting Average': 0.111}
+{'Name': 'Jake Cave', 'Team': 'Colorado', 'Batting Average': 0.273}
+{'Name': 'Matt Chapman', 'Team': 'San Francisco', 'Batting Average': 0.184}
+{'Name': 'Jazz Chisholm Jr.', 'Team': 'Miami', 'Batting Average': 0.211}
+{'Name': 'Jackson Chourio', 'Team': 'Milwaukee', 'Batting Average': 0.278}
+{'Name': 'Ernie Clement', 'Team': 'Toronto', 'Batting Average': 0.28}
+{'Name': 'Michael Conforto', 'Team': 'San Francisco', 'Batting Average': 0.31}
+{'Name': 'William Contreras', 'Team': 'Milwaukee', 'Batting Average': 0.375}
+{'Name': 'Willson Contreras', 'Team': 'St. Louis', 'Batting Average': 0.217}
+{'Name': 'Garrett Cooper', 'Team': 'Cubs', 'Batting Average': 0.417}
+{'Name': 'Carlos Correa', 'Team': 'Minnesota', 'Batting Average': 0.3}
+{'Name': 'Colton Cowser', 'Team': 'Baltimore', 'Batting Average': 0.467}
+{'Name': 'Brandon Crawford', 'Team': 'St. Louis', 'Batting Average': 0.167}
+{'Name': 'J.P. Crawford', 'Team': 'Seattle', 'Batting Average': 0.13}
+{'Name': 'Jake Cronenworth', 'Team': 'San Diego', 'Batting Average': 0.289}
+{'Name': 'Oneil Cruz', 'Team': 'Pittsburgh', 'Batting Average': 0.298}
+{'Name': "Travis d\\'Arnaud", 'Team': 'Atlanta', 'Batting Average': 0.214}
+{'Name': 'Bobby Dalbec', 'Team': 'Boston', 'Batting Average': 0.0}
+{'Name': 'Henry Davis', 'Team': 'Pittsburgh', 'Batting Average': 0.156}
+{'Name': 'J.D. Davis', 'Team': 'Oakland', 'Batting Average': 0.243}
+{'Name': 'Bryan De La Cruz', 'Team': 'Miami', 'Batting Average': 0.275}
+{'Name': 'Elly De La Cruz', 'Team': 'Cincinnati', 'Batting Average': 0.293}
+{'Name': 'Paul DeJong', 'Team': 'White Sox', 'Batting Average': 0.167}
+{'Name': 'Jason Delay', 'Team': 'Pittsburgh', 'Batting Average': 0.0}
+{'Name': 'Rafael Devers', 'Team': 'Boston', 'Batting Average': 0.194}
+{'Name': 'Elias D\\xc3\\xadaz', 'Team': 'Colorado', 'Batting Average': 0.324}
+{'Name': 'Yainer Diaz', 'Team': 'Houston', 'Batting Average': 0.302}
+{'Name': 'Yandy D\\xc3\\xadaz', 'Team': 'Tampa Bay', 'Batting Average': 0.204}
+{'Name': 'Brendan Donovan', 'Team': 'St. Louis', 'Batting Average': 0.25}
+{'Name': 'Brenton Doyle', 'Team': 'Colorado', 'Batting Average': 0.302}
+{'Name': 'Brandon Drury', 'Team': 'Los Angeles', 'Batting Average': 0.171}
+{'Name': 'Mauricio Dub\\xc3\\xb3n', 'Team': 'Houston', 'Batting Average': 0.222}
+{'Name': 'Oliver Dunn', 'Team': 'Milwaukee', 'Batting Average': 0.25}
+{'Name': 'Ezequiel Duran', 'Team': 'Texas', 'Batting Average': 0.2}
+{'Name': 'Jarren Duran', 'Team': 'Boston', 'Batting Average': 0.319}
+{'Name': 'Adam Duvall', 'Team': 'Atlanta', 'Batting Average': 0.231}
+{'Name': 'Christian Encarnacion-Strand', 'Team': 'Cincinnati', 'Batting Average': 0.163}
+{'Name': 'Santiago Espinal', 'Team': 'Cincinnati', 'Batting Average': 0.133}
+{'Name': 'Thairo Estrada', 'Team': 'San Francisco', 'Batting Average': 0.174}
+{'Name': 'Stuart Fairchild', 'Team': 'Cincinnati', 'Batting Average': 0.3}
+{'Name': 'Kyle Farmer', 'Team': 'Minnesota', 'Batting Average': 0.0}
+{'Name': 'Freddy Fermin', 'Team': 'Kansas City', 'Batting Average': 0.2}
+{'Name': 'Tyler Fitzgerald', 'Team': 'San Francisco', 'Batting Average': 0.0}
+{'Name': 'Dominic Fletcher', 'Team': 'White Sox', 'Batting Average': 0.231}
+{'Name': 'Wilmer Flores', 'Team': 'San Francisco', 'Batting Average': 0.269}
+{'Name': 'Estevan Florial', 'Team': 'Cleveland', 'Batting Average': 0.167}
+{'Name': 'Nick Fortes', 'Team': 'Miami', 'Batting Average': 0.059}
+{'Name': 'Justin Foscue', 'Team': 'Texas', 'Batting Average': 0.5}
+{'Name': 'Jake Fraley', 'Team': 'Cincinnati', 'Batting Average': 0.4}
+{'Name': 'Ty France', 'Team': 'Seattle', 'Batting Average': 0.333}
+{'Name': 'Adam Frazier', 'Team': 'Kansas City', 'Batting Average': 0.217}
+{'Name': 'Freddie Freeman', 'Team': 'Los Angeles', 'Batting Average': 0.333}
+{'Name': 'Tyler Freeman', 'Team': 'Cleveland', 'Batting Average': 0.2}
+{'Name': 'Sal Frelick', 'Team': 'Milwaukee', 'Batting Average': 0.324}
+{'Name': 'David Fry', 'Team': 'Cleveland', 'Batting Average': 0.333}
+{'Name': 'Joey Gallo', 'Team': 'Washington', 'Batting Average': 0.167}
+{'Name': 'Adolis Garc\\xc3\\xada', 'Team': 'Texas', 'Batting Average': 0.244}
+{'Name': 'Avisa\\xc3\\xadl Garc\\xc3\\xada', 'Team': 'Miami', 'Batting Average': 0.179}
+{'Name': 'Luis Garc\\xc3\\xada Jr.', 'Team': 'Washington', 'Batting Average': 0.321}
+{'Name': 'Maikel Garcia', 'Team': 'Kansas City', 'Batting Average': 0.222}
+{'Name': 'Mitch Garver', 'Team': 'Seattle', 'Batting Average': 0.156}
+{'Name': 'Zack Gelof', 'Team': 'Oakland', 'Batting Average': 0.244}
+{'Name': 'Andr\\xc3\\xa9s Gim\\xc3\\xa9nez', 'Team': 'Cleveland', 'Batting Average': 0.317}
+{'Name': 'Paul Goldschmidt', 'Team': 'St. Louis', 'Batting Average': 0.182}
+{'Name': 'Yan Gomes', 'Team': 'Cubs', 'Batting Average': 0.2}
+{'Name': 'Romy Gonzalez', 'Team': 'Boston', 'Batting Average': 0.0}
+{'Name': 'Nick Gordon', 'Team': 'Miami', 'Batting Average': 0.191}
+{'Name': 'Nolan Gorman', 'Team': 'St. Louis', 'Batting Average': 0.222}
+{'Name': 'Riley Greene', 'Team': 'Detroit', 'Batting Average': 0.205}
+{'Name': 'Randal Grichuk', 'Team': 'Arizona', 'Batting Average': 0.25}
+{'Name': 'Trent Grisham', 'Team': 'New York', 'Batting Average': 0.0}
+{'Name': 'Robbie Grossman', 'Team': 'White Sox', 'Batting Average': 0.133}
+{'Name': 'Vladimir Guerrero Jr.', 'Team': 'Toronto', 'Batting Average': 0.196}
+{'Name': 'Lourdes Gurriel Jr.', 'Team': 'Arizona', 'Batting Average': 0.298}
+{'Name': 'David Hamilton', 'Team': 'Boston', 'Batting Average': 0.333}
+{'Name': 'Garrett Hampson', 'Team': 'Kansas City', 'Batting Average': 0.077}
+{'Name': 'Mitch Haniger', 'Team': 'Seattle', 'Batting Average': 0.263}
+{'Name': 'Ian Happ', 'Team': 'Cubs', 'Batting Average': 0.318}
+{'Name': 'Bryce Harper', 'Team': 'Philadelphia', 'Batting Average': 0.237}
+{'Name': 'Michael Harris II', 'Team': 'Atlanta', 'Batting Average': 0.35}
+{'Name': "Ke\\'Bryan Hayes", 'Team': 'Pittsburgh', 'Batting Average': 0.313}
+{'Name': 'Austin Hays', 'Team': 'Baltimore', 'Batting Average': 0.077}
+{'Name': 'Austin Hedges', 'Team': 'Cleveland', 'Batting Average': 0.125}
+{'Name': 'Jonah Heim', 'Team': 'Texas', 'Batting Average': 0.237}
+{'Name': 'Gunnar Henderson', 'Team': 'Baltimore', 'Batting Average': 0.231}
+{'Name': 'Darell Hernaiz', 'Team': 'Oakland', 'Batting Average': 0.0}
+{'Name': 'Enrique Hern\\xc3\\xa1ndez', 'Team': 'Los Angeles', 'Batting Average': 0.182}
+{'Name': 'Teoscar Hern\\xc3\\xa1ndez', 'Team': 'Los Angeles', 'Batting Average': 0.283}
+{'Name': 'Iv\\xc3\\xa1n Herrera', 'Team': 'St. Louis', 'Batting Average': 0.296}
+{'Name': 'Jason Heyward', 'Team': 'Los Angeles', 'Batting Average': 0.214}
+{'Name': 'Aaron Hicks', 'Team': 'Los Angeles', 'Batting Average': 0.16}
+{'Name': 'Kyle Higashioka', 'Team': 'San Diego', 'Batting Average': 0.091}
+{'Name': 'Nico Hoerner', 'Team': 'Cubs', 'Batting Average': 0.139}
+{'Name': 'Rhys Hoskins', 'Team': 'Milwaukee', 'Batting Average': 0.212}
+{'Name': 'Andy Ib\\xc3\\xa1\\xc3\\xb1ez', 'Team': 'Detroit', 'Batting Average': 0.267}
+{'Name': 'Jonathan India', 'Team': 'Cincinnati', 'Batting Average': 0.243}
+{'Name': 'Kyle Isbel', 'Team': 'Kansas City', 'Batting Average': 0.226}
+{'Name': 'Travis Jankowski', 'Team': 'Texas', 'Batting Average': 0.429}
+{'Name': 'Ryan Jeffers', 'Team': 'Minnesota', 'Batting Average': 0.12}
+{'Name': 'Eloy Jim\\xc3\\xa9nez', 'Team': 'White Sox', 'Batting Average': 0.182}
+{'Name': 'Connor Joe', 'Team': 'Pittsburgh', 'Batting Average': 0.324}
+{'Name': 'Jahmai Jones', 'Team': 'New York', 'Batting Average': 0.0}
+{'Name': 'Nolan Jones', 'Team': 'Colorado', 'Batting Average': 0.174}
+{'Name': 'Aaron Judge', 'Team': 'New York', 'Batting Average': 0.195}
+{'Name': 'Edouard Julien', 'Team': 'Minnesota', 'Batting Average': 0.107}
+{'Name': 'Josh Jung', 'Team': 'Texas', 'Batting Average': 0.412}
+{'Name': 'Colt Keith', 'Team': 'Detroit', 'Batting Average': 0.222}
+{'Name': 'Jarred Kelenic', 'Team': 'Atlanta', 'Batting Average': 0.462}
+{'Name': 'Carson Kelly', 'Team': 'Detroit', 'Batting Average': 0.25}
+{'Name': 'Tony Kemp', 'Team': 'Baltimore', 'Batting Average': 0.0}
+{'Name': 'Max Kepler', 'Team': 'Minnesota', 'Batting Average': 0.05}
+{'Name': 'Grae Kessinger', 'Team': 'Houston', 'Batting Average': 0.0}
+{'Name': 'Kevin Kiermaier', 'Team': 'Toronto', 'Batting Average': 0.107}
+{'Name': 'Ha-Seong Kim', 'Team': 'San Diego', 'Batting Average': 0.196}
+{'Name': 'Isiah Kiner-Falefa', 'Team': 'Toronto', 'Batting Average': 0.313}
+{'Name': 'Alex Kirilloff', 'Team': 'Minnesota', 'Batting Average': 0.355}
+{'Name': 'Alejandro Kirk', 'Team': 'Toronto', 'Batting Average': 0.162}
+{'Name': 'Andrew Knizner', 'Team': 'Texas', 'Batting Average': 0.0}
+{'Name': 'Steven Kwan', 'Team': 'Cleveland', 'Batting Average': 0.385}
+{'Name': 'Shea Langeliers', 'Team': 'Oakland', 'Batting Average': 0.25}
+{'Name': 'Wyatt Langford', 'Team': 'Texas', 'Batting Average': 0.261}
+{'Name': 'Ram\\xc3\\xb3n Laureano', 'Team': 'Cleveland', 'Batting Average': 0.2}
+{'Name': 'Jung Hoo Lee', 'Team': 'San Francisco', 'Batting Average': 0.255}
+{'Name': 'Korey Lee', 'Team': 'White Sox', 'Batting Average': 0.375}
+{'Name': 'Royce Lewis', 'Team': 'Minnesota', 'Batting Average': 1.0}
+{'Name': 'Francisco Lindor', 'Team': 'New York', 'Batting Average': 0.089}
+{'Name': 'Trey Lipscomb', 'Team': 'Washington', 'Batting Average': 0.243}
+{'Name': 'Nick Loftin', 'Team': 'Kansas City', 'Batting Average': 0.154}
+{'Name': 'Nicky Lopez', 'Team': 'White Sox', 'Batting Average': 0.148}
+{'Name': 'Brandon Lowe', 'Team': 'Tampa Bay', 'Batting Average': 0.185}
+{'Name': 'Gavin Lux', 'Team': 'Los Angeles', 'Batting Average': 0.18}
+{'Name': 'Manny Machado', 'Team': 'San Diego', 'Batting Average': 0.204}
+{'Name': 'Nick Madrigal', 'Team': 'Cubs', 'Batting Average': 0.294}
+{'Name': 'Luke Maile', 'Team': 'Cincinnati', 'Batting Average': 0.143}
+{'Name': 'Mart\\xc3\\xadn Maldonado', 'Team': 'White Sox', 'Batting Average': 0.091}
+{'Name': 'Manuel Margot', 'Team': 'Minnesota', 'Batting Average': 0.286}
+{'Name': 'Brandon Marsh', 'Team': 'Philadelphia', 'Batting Average': 0.344}
+{'Name': 'Ketel Marte', 'Team': 'Arizona', 'Batting Average': 0.277}
+{'Name': 'Starling Marte', 'Team': 'New York', 'Batting Average': 0.256}
+{'Name': 'Austin Martin', 'Team': 'Minnesota', 'Batting Average': 0.286}
+{'Name': 'Nick Martini', 'Team': 'Cincinnati', 'Batting Average': 0.238}
+{'Name': 'Miles Mastrobuoni', 'Team': 'Cubs', 'Batting Average': 0.0}
+{'Name': 'Jorge Mateo', 'Team': 'Baltimore', 'Batting Average': 0.357}
+{'Name': 'Luis Matos', 'Team': 'San Francisco', 'Batting Average': 0.0}
+{'Name': 'James McCann', 'Team': 'Baltimore', 'Batting Average': 0.286}
+{'Name': 'Kyle McCann', 'Team': 'Oakland', 'Batting Average': 0.0}
+{'Name': 'Jake McCarthy', 'Team': 'Arizona', 'Batting Average': 0.273}
+{'Name': 'Chas McCormick', 'Team': 'Houston', 'Batting Average': 0.211}
+{'Name': 'Andrew McCutchen', 'Team': 'Pittsburgh', 'Batting Average': 0.208}
+{'Name': 'Scott McGough', 'Team': 'Arizona', 'Batting Average': 0.0}
+{'Name': 'Reese McGuire', 'Team': 'Boston', 'Batting Average': 0.32}
+{'Name': 'Zach McKinstry', 'Team': 'Detroit', 'Batting Average': 0.294}
+{'Name': 'Ryan McMahon', 'Team': 'Colorado', 'Batting Average': 0.4}
+{'Name': 'Jeff McNeil', 'Team': 'New York', 'Batting Average': 0.156}
+{'Name': 'Curtis Mead', 'Team': 'Tampa Bay', 'Batting Average': 0.292}
+{'Name': 'Parker Meadows', 'Team': 'Detroit', 'Batting Average': 0.08}
+{'Name': 'MJ Melendez', 'Team': 'Kansas City', 'Batting Average': 0.333}
+{'Name': 'Joey Meneses', 'Team': 'Washington', 'Batting Average': 0.191}
+{'Name': 'Whit Merrifield', 'Team': 'Philadelphia', 'Batting Average': 0.167}
+{'Name': 'Jackson Merrill', 'Team': 'San Diego', 'Batting Average': 0.3}
+{'Name': 'Jake Meyers', 'Team': 'Houston', 'Batting Average': 0.238}
+{'Name': 'Jos\\xc3\\xa9 Miranda', 'Team': 'Minnesota', 'Batting Average': 0.0}
+{'Name': 'Andruw Monasterio', 'Team': 'Milwaukee', 'Batting Average': 0.0}
+{'Name': 'Yo\\xc3\\xa1n Moncada', 'Team': 'White Sox', 'Batting Average': 0.282}
+{'Name': 'Mickey Moniak', 'Team': 'Los Angeles', 'Batting Average': 0.191}
+{'Name': 'Elehuris Montero', 'Team': 'Colorado', 'Batting Average': 0.16}
+{'Name': 'Dylan Moore', 'Team': 'Seattle', 'Batting Average': 0.25}
+{'Name': 'Christopher Morel', 'Team': 'Cubs', 'Batting Average': 0.326}
+{'Name': 'Gabriel Moreno', 'Team': 'Arizona', 'Batting Average': 0.25}
+{'Name': 'Ryan Mountcastle', 'Team': 'Baltimore', 'Batting Average': 0.282}
+{'Name': 'Cedric Mullins', 'Team': 'Baltimore', 'Batting Average': 0.188}
+{'Name': 'Max Muncy', 'Team': 'Los Angeles', 'Batting Average': 0.25}
+{'Name': 'Sean Murphy', 'Team': 'Atlanta', 'Batting Average': 0.0}
+{'Name': 'Tom Murphy', 'Team': 'San Francisco', 'Batting Average': 0.111}
+{'Name': 'Omar Narv\\xc3\\xa1ez', 'Team': 'New York', 'Batting Average': 0.385}
+{'Name': 'Bo Naylor', 'Team': 'Cleveland', 'Batting Average': 0.148}
+{'Name': 'Josh Naylor', 'Team': 'Cleveland', 'Batting Average': 0.314}
+{'Name': 'Zach Neto', 'Team': 'Los Angeles', 'Batting Average': 0.2}
+{'Name': 'Tyler Nevin', 'Team': 'Oakland', 'Batting Average': 0.111}
+{'Name': 'Kevin Newman', 'Team': 'Arizona', 'Batting Average': 0.167}
+{'Name': 'Brandon Nimmo', 'Team': 'New York', 'Batting Average': 0.211}
+{'Name': 'Ryan Noda', 'Team': 'Oakland', 'Batting Average': 0.212}
+{'Name': 'Nasim Nu\\xc3\\xb1ez', 'Team': 'Washington', 'Batting Average': 0.0}
+{'Name': "Ryan O\\'Hearn", 'Team': 'Baltimore', 'Batting Average': 0.333}
+{'Name': "Logan O\\'Hoppe", 'Team': 'Los Angeles', 'Batting Average': 0.353}
+{'Name': "Tyler O\\'Neill", 'Team': 'Boston', 'Batting Average': 0.344}
+{'Name': 'Shohei Ohtani', 'Team': 'Los Angeles', 'Batting Average': 0.333}
+{'Name': 'Edward Olivares', 'Team': 'Pittsburgh', 'Batting Average': 0.321}
+{'Name': 'Matt Olson', 'Team': 'Atlanta', 'Batting Average': 0.293}
+{'Name': 'Joey Ortiz', 'Team': 'Milwaukee', 'Batting Average': 0.313}
+{'Name': 'James Outman', 'Team': 'Los Angeles', 'Batting Average': 0.175}
+{'Name': 'Marcell Ozuna', 'Team': 'Atlanta', 'Batting Average': 0.318}
+{'Name': 'Cristian Pache', 'Team': 'Philadelphia', 'Batting Average': 0.0}
+{'Name': 'Pedro Pag\\xc3\\xa9s', 'Team': 'St. Louis', 'Batting Average': 0.0}
+{'Name': 'Richie Palacios', 'Team': 'Tampa Bay', 'Batting Average': 0.167}
+{'Name': 'Isaac Paredes', 'Team': 'Tampa Bay', 'Batting Average': 0.286}
+{'Name': 'Vinnie Pasquantino', 'Team': 'Kansas City', 'Batting Average': 0.108}
+{'Name': 'Graham Pauley', 'Team': 'San Diego', 'Batting Average': 0.133}
+{'Name': 'Joc Pederson', 'Team': 'Arizona', 'Batting Average': 0.368}
+{'Name': 'Jeremy Pe\\xc3\\xb1a', 'Team': 'Houston', 'Batting Average': 0.333}
+{'Name': 'Geraldo Perdomo', 'Team': 'Arizona', 'Batting Average': 0.25}
+{'Name': 'Salvador Perez', 'Team': 'Kansas City', 'Batting Average': 0.341}
+{'Name': 'Wenceel P\\xc3\\xa9rez', 'Team': 'Detroit', 'Batting Average': 0.0}
+{'Name': 'Blake Perkins', 'Team': 'Milwaukee', 'Batting Average': 0.385}
+{'Name': 'Jace Peterson', 'Team': 'Arizona', 'Batting Average': 0.111}
+{'Name': 'Kevin Pillar', 'Team': 'White Sox', 'Batting Average': 0.111}
+{'Name': 'Ren\\xc3\\xa9 Pinto', 'Team': 'Tampa Bay', 'Batting Average': 0.227}
+{'Name': 'Jorge Polanco', 'Team': 'Seattle', 'Batting Average': 0.186}
+{'Name': 'Jurickson Profar', 'Team': 'San Diego', 'Batting Average': 0.286}
+{'Name': 'Ceddanne Rafaela', 'Team': 'Boston', 'Batting Average': 0.212}
+{'Name': 'Cal Raleigh', 'Team': 'Seattle', 'Batting Average': 0.182}
+{'Name': 'Luke Raley', 'Team': 'Seattle', 'Batting Average': 0.15}
+{'Name': 'Harold Ram\\xc3\\xadrez', 'Team': 'Tampa Bay', 'Batting Average': 0.255}
+{'Name': 'Jos\\xc3\\xa9 Ram\\xc3\\xadrez', 'Team': 'Cleveland', 'Batting Average': 0.294}
+{'Name': 'J.T. Realmuto', 'Team': 'Philadelphia', 'Batting Average': 0.273}
+{'Name': 'Anthony Rendon', 'Team': 'Los Angeles', 'Batting Average': 0.15}
+{'Name': 'Hunter Renfroe', 'Team': 'Kansas City', 'Batting Average': 0.156}
+{'Name': 'Luis Rengifo', 'Team': 'Los Angeles', 'Batting Average': 0.364}
+{'Name': 'Pablo Reyes', 'Team': 'Boston', 'Batting Average': 0.188}
+{'Name': 'Bryan Reynolds', 'Team': 'Pittsburgh', 'Batting Average': 0.25}
+{'Name': 'Austin Riley', 'Team': 'Atlanta', 'Batting Average': 0.286}
+{'Name': 'Emmanuel Rivera', 'Team': 'Miami', 'Batting Average': 0.143}
+{'Name': 'Anthony Rizzo', 'Team': 'New York', 'Batting Average': 0.244}
+{'Name': 'Luis Robert Jr.', 'Team': 'White Sox', 'Batting Average': 0.214}
+{'Name': 'V\\xc3\\xadctor Robles', 'Team': 'Washington', 'Batting Average': 0.0}
+{'Name': 'Brayan Rocchio', 'Team': 'Cleveland', 'Batting Average': 0.273}
+{'Name': 'Brendan Rodgers', 'Team': 'Colorado', 'Batting Average': 0.167}
+{'Name': 'Julio Rodr\\xc3\\xadguez', 'Team': 'Seattle', 'Batting Average': 0.196}
+{'Name': 'Jake Rogers', 'Team': 'Detroit', 'Batting Average': 0.13}
+{'Name': 'Johan Rojas', 'Team': 'Philadelphia', 'Batting Average': 0.148}
+{'Name': 'Josh Rojas', 'Team': 'Seattle', 'Batting Average': 0.36}
+{'Name': 'Miguel Rojas', 'Team': 'Los Angeles', 'Batting Average': 0.313}
+{'Name': 'Brent Rooker', 'Team': 'Oakland', 'Batting Average': 0.2}
+{'Name': 'Ben Rortvedt', 'Team': 'Tampa Bay', 'Batting Average': 0.375}
+{'Name': 'Amed Rosario', 'Team': 'Tampa Bay', 'Batting Average': 0.25}
+{'Name': 'Eddie Rosario', 'Team': 'Washington', 'Batting Average': 0.136}
+{'Name': 'Eguy Rosario', 'Team': 'San Diego', 'Batting Average': 0.267}
+{'Name': 'Esteury Ruiz', 'Team': 'Oakland', 'Batting Average': 0.429}
+{'Name': 'Keibert Ruiz', 'Team': 'Washington', 'Batting Average': 0.194}
+{'Name': 'Adley Rutschman', 'Team': 'Baltimore', 'Batting Average': 0.316}
+{'Name': 'Gary S\\xc3\\xa1nchez', 'Team': 'Milwaukee', 'Batting Average': 0.0}
+{'Name': 'Jes\\xc3\\xbas S\\xc3\\xa1nchez', 'Team': 'Miami', 'Batting Average': 0.174}
+{'Name': 'Miguel San\\xc3\\xb3', 'Team': 'Los Angeles', 'Batting Average': 0.261}
+{'Name': 'Carlos Santana', 'Team': 'Minnesota', 'Batting Average': 0.138}
+{'Name': 'Anthony Santander', 'Team': 'Baltimore', 'Batting Average': 0.214}
+{'Name': 'Nolan Schanuel', 'Team': 'Los Angeles', 'Batting Average': 0.065}
+{'Name': 'Davis Schneider', 'Team': 'Toronto', 'Batting Average': 0.227}
+{'Name': 'Kyle Schwarber', 'Team': 'Philadelphia', 'Batting Average': 0.205}
+{'Name': 'Victor Scott II', 'Team': 'St. Louis', 'Batting Average': 0.073}
+{'Name': 'Corey Seager', 'Team': 'Texas', 'Batting Average': 0.368}
+{'Name': 'Marcus Semien', 'Team': 'Texas', 'Batting Average': 0.296}
+{'Name': 'Brian Serven', 'Team': 'Toronto', 'Batting Average': 0.0}
+{'Name': 'Gavin Sheets', 'Team': 'White Sox', 'Batting Average': 0.273}
+{'Name': 'Austin Shenton', 'Team': 'Tampa Bay', 'Batting Average': 0.25}
+{'Name': 'Braden Shewmake', 'Team': 'White Sox', 'Batting Average': 0.188}
+{'Name': 'Zack Short', 'Team': 'New York', 'Batting Average': 0.333}
+{'Name': 'Michael Siani', 'Team': 'St. Louis', 'Batting Average': 0.143}
+{'Name': 'Jon Singleton', 'Team': 'Houston', 'Batting Average': 0.143}
+{'Name': 'Jose Siri', 'Team': 'Tampa Bay', 'Batting Average': 0.263}
+{'Name': 'Austin Slater', 'Team': 'San Francisco', 'Batting Average': 0.0}
+{'Name': 'Josh H. Smith', 'Team': 'Texas', 'Batting Average': 0.348}
+{'Name': 'Will Smith', 'Team': 'Los Angeles', 'Batting Average': 0.4}
+{'Name': 'Jorge Soler', 'Team': 'San Francisco', 'Batting Average': 0.209}
+{'Name': 'Edmundo Sosa', 'Team': 'Philadelphia', 'Batting Average': 0.75}
+{'Name': 'Lenyn Sosa', 'Team': 'White Sox', 'Batting Average': 0.3}
+{'Name': 'Juan Soto', 'Team': 'New York', 'Batting Average': 0.348}
+{'Name': 'George Springer', 'Team': 'Toronto', 'Batting Average': 0.192}
+{'Name': 'Jacob Stallings', 'Team': 'Colorado', 'Batting Average': 0.375}
+{'Name': 'Giancarlo Stanton', 'Team': 'New York', 'Batting Average': 0.25}
+{'Name': 'Spencer Steer', 'Team': 'Cincinnati', 'Batting Average': 0.4}
+{'Name': 'Tyler Stephenson', 'Team': 'Cincinnati', 'Batting Average': 0.259}
+{'Name': 'DJ Stewart', 'Team': 'New York', 'Batting Average': 0.071}
+{'Name': 'Trevor Story', 'Team': 'Boston', 'Batting Average': 0.226}
+{'Name': 'Bryson Stott', 'Team': 'Philadelphia', 'Batting Average': 0.206}
+{'Name': 'Garrett Stubbs', 'Team': 'Philadelphia', 'Batting Average': 0.25}
+{'Name': 'Eugenio Su\\xc3\\xa1rez', 'Team': 'Arizona', 'Batting Average': 0.261}
+{'Name': 'Jack Suwinski', 'Team': 'Pittsburgh', 'Batting Average': 0.191}
+{'Name': 'Seiya Suzuki', 'Team': 'Cubs', 'Batting Average': 0.326}
+{'Name': 'Dansby Swanson', 'Team': 'Cubs', 'Batting Average': 0.27}
+{'Name': 'Fernando Tatis Jr.', 'Team': 'San Diego', 'Batting Average': 0.264}
+{'Name': 'Mike Tauchman', 'Team': 'Cubs', 'Batting Average': 0.214}
+{'Name': 'Leody Taveras', 'Team': 'Texas', 'Batting Average': 0.226}
+{'Name': 'Chris Taylor', 'Team': 'Los Angeles', 'Batting Average': 0.039}
+{'Name': 'Michael A. Taylor', 'Team': 'Pittsburgh', 'Batting Average': 0.375}
+{'Name': 'Samad Taylor', 'Team': 'Seattle', 'Batting Average': 0.4}
+{'Name': 'Tyrone Taylor', 'Team': 'New York', 'Batting Average': 0.276}
+{'Name': 'Rowdy Tellez', 'Team': 'Pittsburgh', 'Batting Average': 0.273}
+{'Name': 'Matt Thaiss', 'Team': 'Los Angeles', 'Batting Average': 0.5}
+{'Name': 'Alek Thomas', 'Team': 'Arizona', 'Batting Average': 0.214}
+{'Name': 'Lane Thomas', 'Team': 'Washington', 'Batting Average': 0.209}
+{'Name': 'Bubba Thompson', 'Team': 'Cincinnati', 'Batting Average': 0.25}
+{'Name': 'Michael Toglia', 'Team': 'Colorado', 'Batting Average': 0.143}
+{'Name': 'Spencer Torkelson', 'Team': 'Detroit', 'Batting Average': 0.2}
+{'Name': 'Abraham Toro', 'Team': 'Oakland', 'Batting Average': 0.158}
+{'Name': 'Gleyber Torres', 'Team': 'New York', 'Batting Average': 0.2}
+{'Name': 'Ezequiel Tovar', 'Team': 'Colorado', 'Batting Average': 0.302}
+{'Name': 'Taylor Trammell', 'Team': 'Los Angeles', 'Batting Average': 0.0}
+{'Name': 'Alan Trejo', 'Team': 'Colorado', 'Batting Average': 0.0}
+{'Name': 'Jose Trevino', 'Team': 'New York', 'Batting Average': 0.071}
+{'Name': 'Jared Triolo', 'Team': 'Pittsburgh', 'Batting Average': 0.25}
+{'Name': 'Chadwick Tromp', 'Team': 'Atlanta', 'Batting Average': 0.0}
+{'Name': 'Mike Trout', 'Team': 'Los Angeles', 'Batting Average': 0.293}
+{'Name': 'Kyle Tucker', 'Team': 'Houston', 'Batting Average': 0.286}
+{'Name': 'Brice Turang', 'Team': 'Milwaukee', 'Batting Average': 0.353}
+{'Name': 'Justin Turner', 'Team': 'Toronto', 'Batting Average': 0.324}
+{'Name': 'Trea Turner', 'Team': 'Philadelphia', 'Batting Average': 0.296}
+{'Name': 'Luis Ur\\xc3\\xadas', 'Team': 'Seattle', 'Batting Average': 0.177}
+{'Name': 'Ram\\xc3\\xb3n Ur\\xc3\\xadas', 'Team': 'Baltimore', 'Batting Average': 0.091}
+{'Name': 'Gio Urshela', 'Team': 'Detroit', 'Batting Average': 0.387}
+{'Name': 'Enmanuel Valdez', 'Team': 'Boston', 'Batting Average': 0.114}
+{'Name': 'Ildemaro Vargas', 'Team': 'Washington', 'Batting Average': 0.292}
+{'Name': 'Daulton Varsho', 'Team': 'Toronto', 'Batting Average': 0.147}
+{'Name': 'Andrew Vaughn', 'Team': 'White Sox', 'Batting Average': 0.205}
+{'Name': 'Christian V\\xc3\\xa1zquez', 'Team': 'Minnesota', 'Batting Average': 0.154}
+{'Name': 'Nelson Vel\\xc3\\xa1zquez', 'Team': 'Kansas City', 'Batting Average': 0.323}
+{'Name': 'Alex Verdugo', 'Team': 'New York', 'Batting Average': 0.22}
+{'Name': 'Matt Vierling', 'Team': 'Detroit', 'Batting Average': 0.269}
+{'Name': 'Daniel Vogelbach', 'Team': 'Toronto', 'Batting Average': 0.222}
+{'Name': 'Anthony Volpe', 'Team': 'New York', 'Batting Average': 0.375}
+{'Name': 'LaMonte Wade Jr.', 'Team': 'San Francisco', 'Batting Average': 0.344}
+{'Name': 'Tyler Wade', 'Team': 'San Diego', 'Batting Average': 0.25}
+{'Name': 'Christian Walker', 'Team': 'Arizona', 'Batting Average': 0.292}
+{'Name': 'Jordan Walker', 'Team': 'St. Louis', 'Batting Average': 0.182}
+{'Name': 'Forrest Wall', 'Team': 'Atlanta', 'Batting Average': nan}
+{'Name': 'Matt Wallner', 'Team': 'Minnesota', 'Batting Average': 0.067}
+{'Name': 'Jared Walsh', 'Team': 'Texas', 'Batting Average': 0.306}
+{'Name': 'Taylor Ward', 'Team': 'Los Angeles', 'Batting Average': 0.304}
+{'Name': 'Austin Wells', 'Team': 'New York', 'Batting Average': 0.13}
+{'Name': 'Joey Wendle', 'Team': 'New York', 'Batting Average': 0.0}
+{'Name': 'Davis Wendzel', 'Team': 'Texas', 'Batting Average': 0.0}
+{'Name': 'Jordan Westburg', 'Team': 'Baltimore', 'Batting Average': 0.194}
+{'Name': 'Alika Williams', 'Team': 'Pittsburgh', 'Batting Average': 0.286}
+{'Name': 'Jesse Winker', 'Team': 'Washington', 'Batting Average': 0.31}
+{'Name': 'Masyn Winn', 'Team': 'St. Louis', 'Batting Average': 0.333}
+{'Name': 'Bobby Witt Jr.', 'Team': 'Kansas City', 'Batting Average': 0.333}
+{'Name': 'Connor Wong', 'Team': 'Boston', 'Batting Average': 0.313}
+{'Name': 'Mike Yastrzemski', 'Team': 'San Francisco', 'Batting Average': 0.13}
+{'Name': 'Christian Yelich', 'Team': 'Milwaukee', 'Batting Average': 0.324}
+{'Name': 'Masataka Yoshida', 'Team': 'Boston', 'Batting Average': 0.222}
+{'Name': 'Jacob Young', 'Team': 'Washington', 'Batting Average': 0.167}
+{'Name': 'Seby Zavala', 'Team': 'Seattle', 'Batting Average': 0.0}
