@@ -11,10 +11,32 @@ def main():
         for idx in range(len(data)):
             row = data.loc[idx]
             teams = row.loc['Tm'].split(',')
-            for team in teams:
+            leagues = row.loc['Lev'].split(',')
+            for team, league in zip(teams, leagues):
+                # Pybaseball only returns the city name, this accounts for teams in the same city
+                if team in ('Chicago', 'New York', 'Los Angeles'):
+                    if league == 'Maj-NL':
+                        if team == 'Chicago':
+                            team = 'Cubs'
+                        elif team == 'New York':
+                            team = 'Mets'
+                        elif team == 'Los Angeles':
+                            team = 'Dodgers'
+                    elif league == 'Maj-AL':
+                        if team == 'Chicago':
+                            team = 'White Sox'
+                        elif team == 'New York':
+                            team = 'Yankees'
+                        elif team == 'Los Angeles':
+                            team = 'Angels'
                 if team not in ROSTER[year]:
                     ROSTER[year][team] = dict()
                 ROSTER[year][team][row.loc['Name']] = row.loc['mlbID'] # Add player to team   
+
+    print(ROSTER.keys())
+    print(ROSTER[2023].keys())
+    print(len(ROSTER[2023]))
+    print(ROSTER[2023]['Arizona'].keys())
 
     # Print Roster
     for year in ROSTER:
