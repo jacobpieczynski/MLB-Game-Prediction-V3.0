@@ -1,2 +1,5 @@
-ROSTER = {year: dict() for year in range(2023, 2024 + 1)} # End year not inclusive, +1 just symbolizes this instead of going to 2025
+START_YEAR, END_YEAR = 2023, 2023
+ROSTER = {year: dict() for year in range(START_YEAR, END_YEAR + 1)} # End year not inclusive, +1 just symbolizes this instead of going to 2025
+GAMES = {year: dict() for year in range(START_YEAR, END_YEAR + 1)}
 TEAM_ABBR = {'Washington': 'WSN', 'Houston': 'HOU', 'Boston': 'BOS', 'Atlanta': 'ATL', 'Milwaukee': 'MIL', 'Angels': 'LAA', 'Oakland': 'OAK', 'Arizona': 'ARI', 'White Sox': 'CHW', 'Colorado': 'COL', 'Yankees': 'NYY', 'Mets': 'NYM', 'Miami': 'MIA', 'Cubs': 'CHC', 'Pittsburgh': 'PIT', 'Tampa Bay': 'TBR', 'St. Louis': 'STL', 'Cleveland': 'CLE', 'San Diego': 'SDN', 'Detroit': 'DET', 'Cincinnati': 'CIN', 'San Francisco': 'SFG', 'Dodgers': 'LAD', 'Kansas City': 'KCR', 'Toronto': 'TOR', 'Baltimore': 'BAL', 'Philadelphia': 'PHI', 'Minnesota': 'MIN', 'Seattle': 'SEA', 'Texas':'TEX'}
+MONTHS = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08', 'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}

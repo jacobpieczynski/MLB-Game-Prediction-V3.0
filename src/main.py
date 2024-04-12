@@ -1,4 +1,5 @@
 from const import *
+from game import Game
 from pybaseball import *
 pybaseball.cache.enable()
 
@@ -48,11 +49,23 @@ def main():
     print('-'*50)
 
     # Load Schedule
-    for team in temp_teams:
-        try:
-            print(schedule_and_record(2024, TEAM_ABBR[team]).to_string())
-        except:
-            print(f'FUCK {team}')
+    print(len(temp_teams))
+
+    for year in ROSTER:
+        for team in ROSTER[year]:
+            schedule = schedule_and_record(year, TEAM_ABBR[team]).reset_index()
+            for idx in range(len(schedule)):
+                data = schedule.loc[idx]
+                if data.loc['Home_Away'] == 'Home':
+                    game = Game(data, year)
+                    if game.home not in GAMES[year]:
+                        GAMES[year][game.home] = dict()
+                    GAMES[year][game.home][game.id] = game
+
+    print(len(GAMES))
+    print(len(GAMES[2023]))
+    print(len(GAMES[2023]['ARI']))
+
 
     # Load Games
         # Load Stats for each team leading up to game
