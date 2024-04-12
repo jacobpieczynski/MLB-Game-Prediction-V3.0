@@ -4,6 +4,7 @@ pybaseball.cache.enable()
 
 def main():
     print('Hello Game Prediction V3.0')
+    temp_teams = []
     # Load Rosters by year
     for year in ROSTER:
         dates = (f'{year}-01-01', f'{year}-12-31')
@@ -31,6 +32,7 @@ def main():
                             team = 'Angels'
                 if team not in ROSTER[year]:
                     ROSTER[year][team] = dict()
+                    temp_teams.append(team)
                 ROSTER[year][team][row.loc['Name']] = row.loc['mlbID'] # Add player to team   
 
     print(ROSTER.keys())
@@ -42,6 +44,15 @@ def main():
     for year in ROSTER:
         for team in ROSTER[year]:
             print(ROSTER[year][team])
+
+    print('-'*50)
+
+    # Load Schedule
+    for team in temp_teams:
+        try:
+            print(schedule_and_record(2024, TEAM_ABBR[team]).to_string())
+        except:
+            print(f'FUCK {team}')
 
     # Load Games
         # Load Stats for each team leading up to game
