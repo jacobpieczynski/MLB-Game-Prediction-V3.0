@@ -1,0 +1,161 @@
+date                                       20230330
+game_num                                          0
+day_of_week                                     Thu
+visiting_team                                   MIL
+visiting_team_league                             NL
+visiting_team_game_num                            1
+home_team                                       CHN
+home_team_league                                 NL
+home_team_game_num                                1
+visiting_score                                    0
+home_score                                        4
+num_outs                                         51
+day_night                                         D
+completion_info                                 NaN
+forfeit_info                                    NaN
+protest_info                                    NaN
+park_id                                       CHI11
+attendance                                  36054.0
+time_of_game_minutes                            141
+visiting_line_score                       000000000
+home_line_score                           00400000x
+visiting_abs                                     29
+visiting_hits                                     4
+visiting_doubles                                  0
+visiting_triples                                  0
+visiting_homeruns                                 0
+visiting_rbi                                      0
+visiting_sac_hits                                 0
+visiting_sac_flies                                0
+visiting_hbp                                      0
+visiting_bb                                       5
+visiting_iw                                       0
+visiting_k                                       12
+visiting_sb                                       0
+visiting_cs                                       0
+visiting_gdp                                      2
+visiting_ci                                       0
+visiting_lob                                      7
+visiting_pitchers_used                            4
+visiting_individual_er                            4
+visiting_er                                       4
+visiting_wp                                       0
+visiting_balks                                    0
+visiting_po                                      24
+visiting_assists                                 12
+visiting_errors                                   1
+visiting_pb                                       0
+visiting_dp                                       1
+visiting_tp                                       0
+home_abs                                         30
+home_hits                                         6
+home_doubles                                      0
+home_triples                                      0
+home_homeruns                                     0
+home_rbi                                          3
+home_sac_hits                                     0
+home_sac_flies                                    0
+home_hbp                                          1
+home_bb                                           4
+home_iw                                           0
+home_k                                            5
+home_sb                                           0
+home_cs                                           0
+home_gdp                                          1
+home_ci                                           0
+home_lob                                          7
+home_pitchers_used                                4
+home_individual_er                                0
+home_er                                           0
+home_wp                                           1
+home_balks                                        0
+home_po                                          27
+home_assists                                     13
+home_errors                                       1
+home_pb                                           2
+home_dp                                           2
+home_tp                                           0
+ump_home_id                                kulpr901
+ump_home_name                             Ron Kulpa
+ump_first_id                               blasc901
+ump_first_name                          Cory Blaser
+ump_second_id                              torrc901
+ump_second_name                       Carlos Torres
+ump_third_id                               viscj901
+ump_third_name                      Jansen Visconti
+ump_lf_id                                       NaN
+ump_lf_name                                  (none)
+ump_rf_id                                       NaN
+ump_rf_name                                  (none)
+visiting_manager_id                        counc001
+visiting_manager_name                Craig Counsell
+home_manager_id                            rossd001
+home_manager_name                        David Ross
+winning_pitcher_id                         strom001
+winning_pitcher_name                 Marcus Stroman
+losing_pitcher_id                          burnc002
+losing_pitcher_name                   Corbin Burnes
+save_pitcher_id                                 NaN
+save_pitcher_name                            (none)
+game_winning_rbi_id                        swand001
+game_winning_rbi_name                Dansby Swanson
+visiting_starting_pitcher_id               burnc002
+visiting_starting_pitcher_name        Corbin Burnes
+home_starting_pitcher_id                   strom001
+home_starting_pitcher_name           Marcus Stroman
+visiting_1_id                              yelic001
+visiting_1_name                    Christian Yelich
+visiting_1_pos                                    7
+visiting_2_id                              winkj002
+visiting_2_name                        Jesse Winker
+visiting_2_pos                                   10
+visiting_2_id.1                            adamw002
+visiting_3_name                        Willy Adames
+visiting_3_pos                                    6
+visiting_4_id                              tellr001
+visiting_4_name                        Rowdy Tellez
+visiting_4_pos                                    3
+visiting_5_id                              contw002
+visiting_5_name                   William Contreras
+visiting_5_pos                                    2
+visiting_6_id                              urial001
+visiting_6_name                          Luis Urias
+visiting_6_pos                                    5
+visiting_7_id                              mitcg001
+visiting_7_name                    Garrett Mitchell
+visiting_7_pos                                    8
+visiting_8_id                              andeb006
+visiting_8_name                      Brian Anderson
+visiting_8_pos                                    9
+visiting_9_id                              turab002
+visiting_9_name                        Brice Turang
+visiting_9_pos                                    4
+home_1_id                                  hoern001
+home_1_name                            Nico Hoerner
+home_1_pos                                        4
+home_2_id                                  swand001
+home_2_name                          Dansby Swanson
+home_2_pos                                        6
+home_3_id                                  happi001
+home_3_name                                Ian Happ
+home_3_pos                                        7
+home_4_id                                  bellc002
+home_4_name                          Cody Bellinger
+home_4_pos                                        8
+home_5_id                                  manct001
+home_5_name                            Trey Mancini
+home_5_pos                                       10
+home_6_id                                  gomey001
+home_6_name                               Yan Gomes
+home_6_pos                                        2
+home_7_id                                  hosme001
+home_7_name                             Eric Hosmer
+home_7_pos                                        3
+home_8_id                                  wisdp001
+home_8_name                          Patrick Wisdom
+home_8_pos                                        5
+home_9_id                                  mastm001
+home_9_name                       Miles Mastrobuoni
+home_9_pos                                        9
+misc                                            NaN
+acquisition_info                                  Y
