@@ -10,7 +10,10 @@ class Game:
         else:
             self.home = data.loc['Opp']
             self.away = data.loc['Tm']
-        self.id = self.date + self.home + self.away
+        self.id = self.date + self.home + self.away\
+
+    def setGameLog(self, log):
+        self.gl = log
 
     def __repr__(self):
         return f'{self.id}: {self.away} at {self.home} on {self.date}'
@@ -19,7 +22,7 @@ class Game:
 def conv_date(date, year):
     # TODO: Deal with double headers
     date = date.split(' ')
-    day = date[-1]
+    day = date[2]
     if len(day) == 1:
         day = '0' + day
     return str(year) + MONTHS[date[1]] + day

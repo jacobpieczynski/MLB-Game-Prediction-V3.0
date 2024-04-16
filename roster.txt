@@ -34,36 +34,7 @@ dict_keys(['Nick Ahmed', 'Dominic Canzone', 'Corbin Carroll', 'Diego Castillo', 
 {'Jos\\xc3\\xa9 Caballero': 676609, 'Dominic Canzone': 686527, 'J.P. Crawford': 641487, 'Mike Ford': 645801, 'Ty France': 664034, 'Sam Haggerty': 664059, 'Teoscar Hern\\xc3\\xa1ndez': 606192, 'Cooper Hummel': 669450, 'Jarred Kelenic': 672284, 'Tommy La Stella': 600303, 'Cade Marlowe': 687799, 'Dylan Moore': 664238, 'Tom Murphy': 608596, "Brian O\\'Keefe": 657247, 'AJ Pollock': 572041, 'Cal Raleigh': 663728, 'Julio Rodr\\xc3\\xadguez': 677594, 'Josh Rojas': 668942, 'Eugenio Su\\xc3\\xa1rez': 553993, 'Luis Torrens': 620443, 'Taylor Trammell': 666211, 'Kolten Wong': 543939}
 {'Evan Carter': 694497, 'Ezequiel Duran': 677649, 'Adolis Garc\\xc3\\xada': 666969, 'Mitch Garver': 641598, 'Robbie Grossman': 543257, 'Austin Hedges': 595978, 'Jonah Heim': 641680, 'Sam Huff': 669087, 'Travis Jankowski': 608671, 'Josh Jung': 673962, 'Sandy Le\\xc3\\xb3n': 506702, 'Nathaniel Lowe': 663993, 'J.P. Mart\\xc3\\xadnez': 679881, 'Brad Miller': 543543, 'Jonathan Ornelas': 680716, 'Josh Sborz': 622250, 'Corey Seager': 608369, 'Marcus Semien': 543760, 'Josh H. Smith': 669701, 'Leody Taveras': 665750, 'Bubba Thompson': 669352}
 --------------------------------------------------
-30
-http://www.baseball-reference.com/teams/HOU/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/BOS/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/ATL/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/MIL/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/LAA/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/OAK/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/ARI/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/CHW/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/COL/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/NYY/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/NYM/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/MIA/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/CHC/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/PIT/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/TBR/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/STL/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/CLE/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/SDN/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/DET/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/CIN/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/SFG/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/LAD/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/KCR/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/TOR/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/BAL/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/PHI/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/MIN/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/SEA/2023-schedule-scores.shtml
-http://www.baseball-reference.com/teams/TEX/2023-schedule-scores.shtml
 1
 30
 81
+dict_keys(['WSN', 'HOU', 'BOS', 'ATL', 'MIL', 'LAA', 'OAK', 'ARI', 'CHW', 'COL', 'NYY', 'NYM', 'MIA', 'CHC', 'PIT', 'TBR', 'STL', 'CLE', 'SDP', 'DET', 'CIN', 'SFG', 'LAD', 'KCR', 'TOR', 'BAL', 'PHI', 'MIN', 'SEA', 'TEX'])

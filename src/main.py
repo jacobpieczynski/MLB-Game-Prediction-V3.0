@@ -1,6 +1,7 @@
 from const import *
 from game import Game
 from pybaseball import *
+from pybaseball.retrosheet import *
 pybaseball.cache.enable()
 
 def main():
@@ -49,8 +50,6 @@ def main():
     print('-'*50)
 
     # Load Schedule
-    print(len(temp_teams))
-
     for year in ROSTER:
         for team in ROSTER[year]:
             schedule = schedule_and_record(year, TEAM_ABBR[team]).reset_index()
@@ -65,14 +64,50 @@ def main():
     print(len(GAMES))
     print(len(GAMES[2023]))
     print(len(GAMES[2023]['ARI']))
-
+    print(GAMES[2023].keys())
 
     # Load Games
+    for year in GAMES:
+        log = season_game_logs(year)
+        for idx in range(len(log)):
+            game = log.loc[idx]
+            home_team = gl_conv_abbr(game.loc['home_team'])
+            visitor_team = gl_conv_abbr(game.loc['visiting_team'])
+            game_id = str(game.loc['date']) + home_team + visitor_team
+            GAMES[year][home_team][game_id].setGameLog(game)
         # Load Stats for each team leading up to game
         # Compare stats and determine outcome
 
     # Repeat for each game
     # Output to CSV
+
+# TO account for differences in abbreviations between data sources
+def gl_conv_abbr(team):
+    if team == 'CHN':
+        team = 'CHC'
+    elif team == 'LAN':
+        team = 'LAD'
+    elif team == 'NYN':
+        team = 'NYM'
+    elif team == 'NYA':
+        team = 'NYY'
+    elif team == 'SLN':
+        team = 'STL'
+    elif team == 'WAS':
+        team = 'WSN'
+    elif team == 'CHA':
+        team = 'CHW'
+    elif team == 'KCA':
+        team = 'KCR'
+    elif team == 'SFN':
+        team = 'SFG'
+    elif team == 'ANA':
+        team = 'LAA'
+    elif team == 'TBA':
+        team = 'TBR'
+    elif team == 'SDN':
+        team = 'SDP'
+    return team
 
 if __name__ == '__main__':
     main()
